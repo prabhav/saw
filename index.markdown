@@ -1,7 +1,7 @@
 ---
-layout: layout--homepage
 title: Home
 date: 2019-03-22 21:31:00 Z
+layout: layout--homepage
 slides:
 - bg: images/@stock/fullscreen-slide-1.jpg
   title: we are a tough team yes we are
@@ -14,3 +14,4 @@ slides:
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 ---
+
