@@ -1,9 +1,8 @@
 ---
 title: Home
 date: 2019-03-22 21:31:00 Z
-layout: layout--homepage
 slides:
-- bg: images/@stock/fullscreen-slide-1.jpg
+- bg: https://images.unsplash.com/photo-1535776142635-8fa180c46af7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1256&q=80
   title: we are a tough team yes we are
   tagline: we deliver great things that you definitely love ...
   buttons:
@@ -202,5 +201,6 @@ socials:
   text: Connect us with facebook
   icon_class: fa fa-facebook
   link_to: http://facebook.com
+layout: layout--homepage
 ---
 
