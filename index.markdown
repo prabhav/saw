@@ -190,13 +190,13 @@ socials:
   text: Connect us with facebook
   icon_class: fa fa-facebook
   link_to: http://facebook.com
-- title: Facebook
+- title: Twitter
   text: Connect us with facebook
-  icon_class: fa fa-facebook
+  icon_class: fa fa-twitter
   link_to: http://facebook.com
-- title: Facebook
-  text: Connect us with facebook
-  icon_class: fa fa-facebook
+- title: Instagram
+  text: Connect us with Instagram
+  icon_class: fa fa-instagram
   link_to: http://facebook.com
 - title: Facebook
   text: Connect us with facebook
