@@ -2,9 +2,10 @@
 title: Home
 date: 2019-03-22 21:31:00 Z
 slides:
-- bg: https://images.unsplash.com/photo-1535776142635-8fa180c46af7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1256&q=80
-  title: we are a tough team yes we are
-  tagline: we deliver great things that you definitely love ...
+- bg: https://images.unsplash.com/photo-1523662070078-0310b6680524?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+  title: We'll help you soothe those first moment jitters.
+  tagline: 'lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
+    lorem lorem lorem lorem lorem lorem lorem lorem '
   buttons:
   - text: view portfolio
     class: small
