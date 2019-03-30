@@ -146,48 +146,6 @@ clients:
 - "../images/@stock/client-4.png"
 - "../images/@stock/client-5.png"
 - "../images/@stock/client-6.png"
-"<!-- price_boxes":
-- type: free
-  desc: Perfect for freelancers
-  cost: 0
-  lines:
-  - 15 Users
-  - 10 Projects
-  - 30GB of Storage
-  - 5 Workspaces
-  - Private Forums
-  - Enhanced Security
-- type: basic
-  desc: Perfect for small teams
-  cost: 20
-  lines:
-  - 15 Users
-  - 10 Projects
-  - 30GB of Storage
-  - 5 Workspaces
-  - Private Forums
-  - Enhanced Security
-- type: plus
-  desc: Popular and hot selling
-  cost: 45
-  lines:
-  - 15 Users
-  - 10 Projects
-  - 30GB of Storage
-  - 5 Workspaces
-  - Private Forums
-  - Enhanced Security
-  class: featured
-- type: Premium
-  desc: Perfect for big companies
-  cost: 99
-  lines:
-  - 15 Users
-  - 10 Projects
-  - 30GB of Storage
-  - 5 Workspaces
-  - Private Forums
-  - Enhanced Security -->
 socials:
 - title: Facebook
   text: Connect us with facebook
@@ -207,4 +165,3 @@ socials:
   link_to: http://facebook.com
 layout: layout--homepage
 ---
-
