@@ -146,7 +146,7 @@ clients:
 - "../images/@stock/client-4.png"
 - "../images/@stock/client-5.png"
 - "../images/@stock/client-6.png"
-<!-- price_boxes:
+"<!-- price_boxes":
 - type: free
   desc: Perfect for freelancers
   cost: 0
