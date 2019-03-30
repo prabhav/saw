@@ -38,6 +38,7 @@ slides:
   - text: View features
     class: boxed small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
+intro: "An introduction to us and our team Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
 works:
 - image: "../images/@stock/one-page-work-1.jpg"
   title: Beautiful Girl
@@ -204,4 +205,3 @@ socials:
   link_to: http://facebook.com
 layout: layout--homepage
 ---
-
