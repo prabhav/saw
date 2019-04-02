@@ -82,7 +82,7 @@ works:
   link_to: portfolio-item.html
   class: web-design
   desc: Design &amp; Development
-- image: "../images/@stock/one-page-work-8.jpg"
+- image: "/uploads/9163-invest-in-toronto-995x330.png"
   title: Flower Book
   link_to: portfolio-item.html
   class: graphic-design
