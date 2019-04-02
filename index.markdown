@@ -88,13 +88,19 @@ works:
   class: graphic-design
   desc: Design &amp; Development
 testimonials:
-- quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus
-    id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-    Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
+- quote: 'I would, with all honestly and faith recommend SAW. I am so ever grateful
+    to be connected with the organisation. It can be scary to move from your home
+    country alone, but SAW has been with me throughout. As a matter of fact, they
+    still guide me, have faith in me, and are like a family to me! I trust them fully,
+    and recommend any student who is planning to come here, to get in contact with
+    them! '
   author: "- Astha Chawla, Media Communication, Humber College 2018"
-- quote: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer
-    sit amet magna adipiscing.
+- quote: I am glad to be a part of such a great organisation. They helped me a lot
+    during my initial days here in Canada and have continued to be like a family ever
+    since. I know transitioning from your life back home to a new one can be difficult
+    but SAW makes it much easier and helps you get settled in pretty quickly. They
+    truly are your own family away from home and you can definitely count on them
+    at every step of your journey.
   author: "- Shivangi Paul, Web Designing, CDI College 2019"
 - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus
     id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
