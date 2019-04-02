@@ -91,11 +91,11 @@ testimonials:
 - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus
     id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
     Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-  author: "- David White, Designer at Huglab"
+  author: "- Astha Chawla, Media Communication, Humber College 2018"
 - quote: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
     nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer
     sit amet magna adipiscing.
-  author: "- David White, Designer at Huglab"
+  author: "- Shivangi Paul, Web Designing, CDI College 2019"
 - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus
     id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
   author: "- David White, Designer at Huglab"
