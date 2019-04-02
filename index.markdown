@@ -7,10 +7,10 @@ slides:
   tagline: 'lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
     lorem lorem lorem lorem lorem lorem lorem lorem '
   buttons:
-  - text: view portfolio
+  - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: purchase now
+  - text: NEW IMMIGRANTS
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 - bg: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/12/out-short.jpg
