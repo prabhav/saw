@@ -38,9 +38,14 @@ slides:
   - text: View features
     class: boxed small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-intro: An introduction to us and our team Lorem ipsum dolor sit amet, consectetur
-  adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  Ut enim ad minim.
+intro: "We are a team helping students settle in and help with the post landing needs.
+  It can be stressful to start a new journey in\na new country but worry not we are
+  your very own family in CANADA.\n\nWe are here to answer any question you might
+  have regarding WHERE, HOW and WHEN to get things done.\n\nWe want students to SMOOTHLY
+  transition into their new life. The aim is to provide a step by step plan for every
+  student in order for them to thrive independently without risking their educational
+  time. \nAll you need is to pack up your bags, arrive safely and the rest would be
+  taken care of by us.\n\n"
 works:
 - image: "../images/@stock/one-page-work-1.jpg"
   title: Beautiful Girl
