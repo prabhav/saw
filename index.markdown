@@ -20,7 +20,7 @@ slides:
   - text: purchase now
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: view features
+  - text: NEW IMMIGRANTS
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
   videos:
@@ -32,7 +32,7 @@ slides:
   title: Always have a dream
   tagline: It is very quick to build a website with this theme
   buttons:
-  - text: Purchase now
+  - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
   - text: View features
