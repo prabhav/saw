@@ -102,9 +102,13 @@ testimonials:
     truly are your own family away from home and you can definitely count on them
     at every step of your journey.
   author: "- Shivangi Paul, Web Designing, CDI College 2019"
-- quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus
-    id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-  author: "- David White, Designer at Huglab"
+- quote: "Coming to a new country is more difficult than it sounds. Doing everything
+    on your own, figuring out what is wrong and right. It gets overwhelming. I found
+    SAW by randomly browsing through Facebook and I cannot thank them enough for everything
+    they have done. From picking me up from the airport to helping me find housing
+    which fits my budget and choice. \nIt is commendable to see how people in this
+    country are helping each other grow."
+  author: "- Shradha Chopra, Business Accounting, Humber College 2015"
 members:
 - avatar: images/@stock/member-1.jpg
   name: Mark Wayne
