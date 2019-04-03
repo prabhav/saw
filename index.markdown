@@ -161,17 +161,13 @@ socials:
 - title: Facebook
   text: Connect us with facebook
   icon_class: fa fa-facebook
-  link_to: http://facebook.com
-- title: Twitter
-  text: Connect us with facebook
-  icon_class: fa fa-twitter
-  link_to: http://facebook.com
+  link_to: https://www.facebook.com/SAWCANADA/
 - title: Instagram
   text: Connect us with Instagram
   icon_class: fa fa-instagram
-  link_to: http://facebook.com
-- title: Facebook
-  text: Connect us with facebook
+  link_to: https://www.instagram.com/sawcanada/
+- title: Mail
+  text: Connect us with via mail
   icon_class: fa fa-facebook
   link_to: http://facebook.com
 layout: layout--homepage
