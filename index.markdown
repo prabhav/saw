@@ -109,10 +109,27 @@ testimonials:
     which fits my budget and choice. \nIt is commendable to see how people in this
     country are helping each other grow."
   author: "- Shradha Chopra, Business Accounting, Humber College 2015"
+- quote: 
+  author: "- Shrey Mehta, Business Marketing Management, Conestoga College 2018"
+- quote: 
+  author: "- Sameer Sachdeva, Business Accounting, Humber College 2018"
+- quote: 
+  author: "- Shiven Sareen, International Business Management, George  Brown College
+    2018"
+- quote: 
+  author: Malaika Munjal, Business Economics Honours, University of Calgary 2018
+- quote: 
+  author: "- Yatin Syal, Massage Therapy, Humber College 2015"
+- quote: 
+  author: "- Vishal Malhotra, Hospitality Management, Humber College 2016"
+- quote: 
+  author: "- Mandeep Singh, Web Design, CDI College 2017"
+- quote: 
+  author: "- Gurinder Singh, Web Design , CDI College 2018"
 members:
 - avatar: images/@stock/member-1.jpg
-  name: Mark Wayne
-  position: Founder
+  name: Shradha Chopra
+  position: Co-founder
   socials:
   - link: http://twitter.com
     icon: twitter
@@ -121,8 +138,8 @@ members:
   desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
     nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
 - avatar: images/@stock/member-2.jpg
-  name: Kate Holms
-  position: Creative Director
+  name: Manish Chopra
+  position: Co-founder/Manager
   socials:
   - link: http://twitter.com
     icon: twitter
@@ -133,8 +150,8 @@ members:
   desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
     nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
 - avatar: images/@stock/member-3.jpg
-  name: Tome Hason
-  position: Designer
+  name: Geetanjali Chopra
+  position: Manager
   socials:
   - link: http://twitter.com
     icon: twitter
