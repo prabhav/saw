@@ -126,6 +126,18 @@ testimonials:
   author: "- Mandeep Singh, Web Design, CDI College 2017"
 - quote: 
   author: "- Gurinder Singh, Web Design , CDI College 2018"
+- quote: 
+  author: "- Manvi Aghi, UX Design, Humber College 2018"
+- quote: 
+  author: "-Manpreet Singh, Business Accounting, Humber College 2015"
+- quote: 
+  author: "-Heena Dhingra, Business Management, Humber College 2015"
+- quote: 
+  author: "- Sahil Kundal, Project Management, Lambton College 2016"
+- quote: 
+  author: "-Rajvir Singh, Supply Chain Management, Lambton College 2017"
+- quote: 
+  author: 
 members:
 - avatar: images/@stock/member-1.jpg
   name: Shradha Chopra
