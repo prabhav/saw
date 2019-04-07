@@ -124,11 +124,16 @@ testimonials:
     my journey more convenient and smooth.
   author: "- Shiven Sareen, International Business Management, George  Brown College
     2018"
-- quote: 
+- quote: Best advisor! Can't believe someone would go the extra mile to help someone
+    like they did. Guess that's how Canadians are!
   author: Malaika Munjal, Business Economics Honours, University of Calgary 2018
-- quote: 
+- quote: From picking me from the airport to helping me find accomodation and a job
+    they helped with that comes with settling in an unknown and new country. I couldn't
+    be more satisfied.
   author: "- Yatin Syal, Massage Therapy, Humber College 2015"
-- quote: 
+- quote: I was more than confused about what I should do and how things will go in
+    a new country. I am more than happy to have this family in Canada. They are my
+    Home Away from Home!
   author: "- Vishal Malhotra, Hospitality Management, Humber College 2016"
 - quote: 
   author: "- Mandeep Singh, Web Design, CDI College 2017"
