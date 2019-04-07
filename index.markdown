@@ -109,11 +109,19 @@ testimonials:
     which fits my budget and choice. \nIt is commendable to see how people in this
     country are helping each other grow."
   author: "- Shradha Chopra, Business Accounting, Humber College 2015"
-- quote: 
+- quote: 'When I decided Canada was the country I want to go to for my further education
+    and started my research. I talked to hundreds of people,went to numerous student
+    advisor but all of them provided limited services, limited to the extent of admission.
+    I had no idea what will happen once I am there, what if I need someone , any help
+    I had no idea. Someone suggested my SAW and that was the end of it. They provided
+    me with a whole package and helped me with absolutely anything and everything.    '
   author: "- Shrey Mehta, Business Marketing Management, Conestoga College 2018"
-- quote: 
+- quote: My journey to and in Canada wouldn't have been possible without SAW help.
+    I wouldn't have it any other way.
   author: "- Sameer Sachdeva, Business Accounting, Humber College 2018"
-- quote: 
+- quote: I was so confused what program to pick and what to do. I was wrongly advised
+    from people I was in contact with until I met a SAW representative. They helped
+    my journey more convenient and smooth.
   author: "- Shiven Sareen, International Business Management, George  Brown College
     2018"
 - quote: 
