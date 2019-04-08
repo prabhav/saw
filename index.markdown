@@ -4,22 +4,22 @@ date: 2019-03-22 21:31:00 Z
 slides:
 - bg: https://images.unsplash.com/photo-1523662070078-0310b6680524?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
   title: Post-Landing Services!
-  tagline: 
+  tagline: Your Family in Canada!
   buttons:
-  - text: STUDENTS
+  - text: "**STUDENTS**"
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: NEW IMMIGRANTS
+  - text: "**NEW IMMIGRANTS**"
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 - bg: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/12/out-short.jpg
   title: creative &amp; powerful
   tagline: It it very happy thing to make great website
   buttons:
-  - text: STUDENTS
+  - text: "**STUDENTS**"
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: NEW IMMIGRANTS
+  - text: "**NEW IMMIGRANTS**"
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
   videos:
@@ -31,10 +31,10 @@ slides:
   title: Always have a dream
   tagline: It is very quick to build a website with this theme
   buttons:
-  - text: STUDENTS
+  - text: "**STUDENTS**"
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: NEW IMMIGRANTS
+  - text: "**NEW IMMIGRANTS**"
     class: boxed small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 intro: "We are a team helping students settle in and help with the post landing needs.
