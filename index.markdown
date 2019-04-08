@@ -16,7 +16,7 @@ slides:
   title: creative &amp; powerful
   tagline: It it very happy thing to make great website
   buttons:
-  - text: purchase now
+  - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
   - text: NEW IMMIGRANTS
@@ -34,7 +34,7 @@ slides:
   - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: View features
+  - text: NEW IMMIGRANTS
     class: boxed small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 intro: "We are a team helping students settle in and help with the post landing needs.
