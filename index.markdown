@@ -56,11 +56,32 @@ services:
   title: Temporary Accommodation
   description: Place to stay while you find your own
 - icon: bicycle
-  title: Transport Help
+  title: Public Transport Guide
   description: Getting around made easy
 - icon: phone
-  title: SIM Card
+  title: Getting a SIN Card!
   description: Stay connected to your loved ones
+- icon: 
+  title: Find a Job
+  description: 
+- icon: 
+  title: Driver's License
+  description: 
+- icon: 
+  title: Travel and Health Insurance
+  description: 
+- icon: 
+  title: Daily Tiffin Service
+  description: 
+- icon: 
+  title: Opening a Bank Account
+  description: 
+- icon: 
+  title: Cellular Plans
+  description: 
+- icon: 
+  title: Travel Pass
+  description: 
 works:
 - image: "../images/@stock/one-page-work-1.jpg"
   title: Beautiful Girl
