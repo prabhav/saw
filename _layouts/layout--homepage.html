@@ -60,7 +60,7 @@ layout: default
   <div class='row'>
     <div class='large-10 columns large-centered'>
       <div class='spacing'></div>
-      {% include section-header.html class="alt" title="An Introduction" %}
+      {% include section-header.html class="alt" title="About Us" %}
       <div class='spacing'></div>
       <p class='centered-text' style='font-size: 1.6rem'>
         {{ page.intro }}
@@ -108,18 +108,30 @@ layout: default
     <div class='large-12 columns'>
       <div class='mod modBoxedTextSlider'>
         <div class='boxes'>
+            {% for service in page.services %}
+            <div class='box' style=''>
+              <i class='fa fa-{{ service.icon }}'></i>
+              <h4>{{ service.title }}</h4>
+              <p>{{ service.description }}</p>
+            </div>
+            {% endfor %}
+
+        {% comment %}
+
           {% include box.html class="fa fa-trophy" title="Design" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
           {% include box.html class="fa fa-compass" title="Art direction" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
           {% include box.html class="fa fa-star-half-empty" title="Branding" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
           {% include box.html class="fa fa-image" title="Photography" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
           {% include box.html class="fa fa-dot-circle-o" title="Marketing" text="Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus. temporibus corporis eos dolore reprehenderit ipsa at neque ab ut porro perferendis." %}
+
+        {% endcomment %}
         </div>
       </div>
     </div>
   </div>
   <div class='four spacing'></div>
 </div>
-<div class='full parallax' style='background-image: url(https://images.unsplash.com/photo-1446846365537-255ea07833ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1385&q=80); color: #fff;'>
+<div class='full parallax' style='background-image: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ), url(https://images.unsplash.com/photo-1446846365537-255ea07833ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1385&q=80); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
       {% include section-header.html class="alt" title_style="color: #fff;" title="What we are good at" %}
@@ -219,7 +231,7 @@ layout: default
   </div>
   <div class='four spacing'></div>
 </div>
-<div class='full parallax' style='background-image: url(https://images.unsplash.com/photo-1490623970972-ae8bb3da443e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80); color: #fff;'>
+<div class='full parallax' style='background-image: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ), url(https://images.unsplash.com/photo-1490623970972-ae8bb3da443e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
       <p class='centered-text'>
@@ -255,7 +267,7 @@ layout: default
     </div>
   </div>
 </div>
-<div class='full no-padding' style='background: #F9CE06; color: #fff'>
+<!-- <div class='full no-padding' style='background: #F9CE06; color: #fff'>
   <div class='two spacing'></div>
   <div class='mod modCallToAction'>
     <div class='row'>
@@ -268,7 +280,7 @@ layout: default
     </div>
   </div>
   <div class='spacing'></div>
-</div>
+</div> -->
 <a id='team'></a>
 <div class='full'>
   <div class='row'>
@@ -305,7 +317,7 @@ layout: default
   </div>
   <div class='three spacing'></div>
 </div>
-<div class='full parallax' style='background-image: url(https://images.unsplash.com/photo-1516809391665-6e6fb6c153f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80); color: #fff;'>
+<div class='full parallax' style='background-image: linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url(https://images.unsplash.com/photo-1516809391665-6e6fb6c153f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
       {% include section-header.html class="alt" title_style="color: #fff;" title="Our customers" %}
@@ -371,7 +383,7 @@ layout: default
   </div>
   <div class='four spacing'></div>
 </div> -->
-<div class='full parallax' style='background-image: url(https://images.unsplash.com/photo-1516809391665-6e6fb6c153f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80);'>
+<div class='full parallax' style='background-image: linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url(https://images.unsplash.com/photo-1516809391665-6e6fb6c153f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80);'>
   <div class='row'>
     <div class='large-12 columns'>
       {% include section-header.html title="Our recent posts" class="alt" title_style="color: #fff;" %}
@@ -444,19 +456,17 @@ layout: default
     <div class='medium-4 columns'>
       <div class='contact-details'>
         <h4>Our location:</h4>
-        <p>41 Dean Street, London, UK</p>
+        <p>67 Kevi Crescent, Richmond Hill, Ontario L4B3C9</p>
         <h4>Our Phone:</h4>
-        <p>+86 (03) 9810 4612</p>
-        <h4>Fax:</h4>
-        <p>+6102 236338 5456</p>
+        <p>+1-647-2000-500</p>
         <h4>Our Email:</h4>
-        <p>info@osum-team.com</p>
+        <p><a href="mailto:studenthelpcanada@gmail.com">studenthelpcanada@gmail.com</a></p>
       </div>
     </div>
   </div>
 </div>
 <div class='two spacing'></div>
-<div class='full parallax' style='background-image: url(https://images.unsplash.com/photo-1517090504586-fde19ea6066f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80); color: #fff;'>
+<div class='full parallax' style='background-image: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ), url(https://images.unsplash.com/photo-1517090504586-fde19ea6066f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
       {% include section-header.html class="alt" title="Find us elsewhere" title_style="color: #fff;" %}
