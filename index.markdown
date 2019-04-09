@@ -6,20 +6,20 @@ slides:
   title: Post-Landing Services!
   tagline: Your Family in Canada!
   buttons:
-  - text: "**STUDENTS**"
+  - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: "**NEW IMMIGRANTS**"
+  - text: NEW IMMIGRANTS
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 - bg: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/12/out-short.jpg
   title: creative &amp; powerful
   tagline: It it very happy thing to make great website
   buttons:
-  - text: "**STUDENTS**"
+  - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: "**NEW IMMIGRANTS**"
+  - text: NEW IMMIGRANTS
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
   videos:
@@ -31,10 +31,10 @@ slides:
   title: Always have a dream
   tagline: It is very quick to build a website with this theme
   buttons:
-  - text: "**STUDENTS**"
+  - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: "**NEW IMMIGRANTS**"
+  - text: NEW IMMIGRANTS
     class: boxed small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 intro: "We are a team helping students settle in and help with the post landing needs.
