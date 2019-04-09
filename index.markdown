@@ -46,21 +46,21 @@ intro: "We are a team helping students settle in and help with the post landing 
   time. \nAll you need is to pack up your bags, arrive safely and the rest would be
   taken care of by us.\n\n"
 services:
-- icon: facebook
-  title: uthana
+- icon: bus
+  title: Admissions
+  description: We'll get you in
+- icon: bus
+  title: Airport Pickup
   description: utha hi lenge beta
-- icon: facebook
-  title: uthana
-  description: utha hi lenge beta
-- icon: facebook
-  title: uthana
-  description: utha hi lenge beta
-- icon: facebook
-  title: uthana
-  description: utha hi lenge beta
-- icon: facebook
-  title: uthana
-  description: utha hi lenge beta
+- icon: home
+  title: Temporary Accommodation
+  description: Place to stay while you find your own
+- icon: bicycle
+  title: Transport Help
+  description: Getting around made easy
+- icon: phone
+  title: SIM Card
+  description: Stay connected to your loved ones
 
 
 works:
