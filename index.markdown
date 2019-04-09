@@ -150,28 +150,28 @@ testimonials:
     a new country. I am more than happy to have this family in Canada. They are my
     Home Away from Home!
   author: "- Vishal Malhotra, Hospitality Management, Humber College 2016"
-- quote:
+- quote: 
   author: "- Mandeep Singh, Web Design, CDI College 2017"
-- quote:
+- quote: 
   author: "- Gurinder Singh, Web Design , CDI College 2018"
-- quote:
+- quote: 
   author: "- Manvi Aghi, UX Design, Humber College 2018"
-- quote:
+- quote: 
   author: "-Manpreet Singh, Business Accounting, Humber College 2015"
-- quote:
+- quote: 
   author: "-Heena Dhingra, Business Management, Humber College 2015"
-- quote:
+- quote: 
   author: "- Sahil Kundal, Project Management, Lambton College 2016"
-- quote:
+- quote: 
   author: "-Rajvir Singh, Supply Chain Management, Lambton College 2017"
-- quote:
-  author:
+- quote: 
+  author: 
 members:
 - avatar: images/@stock/member-1.jpg
   name: Shradha Chopra
   position: Co-founder
   socials:
-  - link:
+  - link: 
     icon: twitter
   - link: http://facebook.com
     icon: facebook
@@ -233,3 +233,4 @@ socials:
   link_to: http://facebook.com
 layout: layout--homepage
 ---
+
