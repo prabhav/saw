@@ -6,20 +6,20 @@ slides:
   title: Post-Landing Services!
   tagline: Your Family in Canada!
   buttons:
-  - text: "**STUDENTS**"
+  - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: "**NEW IMMIGRANTS**"
+  - text: NEW IMMIGRANTS
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 - bg: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/12/out-short.jpg
   title: creative &amp; powerful
   tagline: It it very happy thing to make great website
   buttons:
-  - text: "**STUDENTS**"
+  - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: "**NEW IMMIGRANTS**"
+  - text: NEW IMMIGRANTS
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
   videos:
@@ -31,10 +31,10 @@ slides:
   title: Always have a dream
   tagline: It is very quick to build a website with this theme
   buttons:
-  - text: "**STUDENTS**"
+  - text: STUDENTS
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: "**NEW IMMIGRANTS**"
+  - text: NEW IMMIGRANTS
     class: boxed small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 intro: "We are a team helping students settle in and help with the post landing needs.
@@ -78,11 +78,32 @@ immigrants:
   title: Temporary Accommodation
   description: Place to stay while you find your own
 - icon: bicycle
-  title: Transport Help
+  title: Public Transport Guide
   description: Getting around made easy
 - icon: phone
-  title: SIM Card
+  title: Getting a SIN Card!
   description: Stay connected to your loved ones
+- icon: 
+  title: Find a Job
+  description: 
+- icon: 
+  title: Driver's License
+  description: 
+- icon: 
+  title: Travel and Health Insurance
+  description: 
+- icon: 
+  title: Daily Tiffin Service
+  description: 
+- icon: 
+  title: Opening a Bank Account
+  description: 
+- icon: 
+  title: Cellular Plans
+  description: 
+- icon: 
+  title: Travel Pass
+  description: 
 works:
 - image: "../images/@stock/one-page-work-1.jpg"
   title: Beautiful Girl
