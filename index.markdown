@@ -64,25 +64,25 @@ students:
 - icon: phone
   title: SIM Card
   description: Stay connected to your loved ones
-- icon:
+- icon: briefcase
   title: Find a Job
   description:
-- icon:
+- icon: car
   title: Driver's License
-  description:
-- icon:
+  description: lorem ipsum
+- icon: money
   title: Travel and Health Insurance
   description:
-- icon:
+- icon: spoon
   title: Daily Tiffin Service
   description:
-- icon:
+- icon: money
   title: Opening a Bank Account
   description:
-- icon:
+- icon: phone
   title: Cellular Plans
   description:
-- icon:
+- icon: cab
   title: Travel Pass
   description:
 immigrants:
