@@ -104,7 +104,6 @@ immigrants:
 - icon: phone
   title: Getting a SIN Card!
   description: Stay connected to your loved ones
-
 works:
 - image: "../images/@stock/one-page-work-1.jpg"
   title: Beautiful Girl
