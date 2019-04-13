@@ -97,22 +97,26 @@ layout: default
   <div class='two spacing'></div>
 </div>
 <a id='services'></a>
+
+<!-- Services for Students -->
+
 <div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
-      {% include section-header.html title="Our services" class="alt" %}
+      {% include section-header.html title="Our Services for Students" class="alt" %}
       <div class='two spacing'></div>
     </div>
   </div>
   <div class='row'>
     <div class='large-12 columns'>
-      <div class='mod modBoxedTextSlider'>
+      <!-- <div class='mod modBoxedTextSlider'> -->
+      <div class='modBoxedTextSlider'>
         <div class='boxes'>
-            {% for service in page.services %}
+            {% for student in page.students %}
             <div class='box' style=''>
-              <i class='fa fa-{{ service.icon }}'></i>
-              <h4>{{ service.title }}</h4>
-              <p>{{ service.description }}</p>
+              <i class='fa fa-{{ student.icon }}'></i>
+              <h4>{{ student.title }}</h4>
+              <p>{{ student.description }}</p>
             </div>
             {% endfor %}
 
@@ -129,9 +133,39 @@ layout: default
       </div>
     </div>
   </div>
+  <!-- <div class='four spacing'></div> -->
+</div>
+
+<!-- Services for Immigrants -->
+
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Our Services for New Immigrants" class="alt" %}
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <!-- <div class='mod modBoxedTextSlider'> -->
+      <div class='modBoxedTextSlider'>
+        <div class='boxes'>
+            {% for immigrant in page.immigrants %}
+            <div class='box' style=''>
+              <i class='fa fa-{{ immigrant.icon }}'></i>
+              <h4>{{ immigrant.title }}</h4>
+              <p>{{ immigrant.description }}</p>
+            </div>
+            {% endfor %}
+
+
+        </div>
+      </div>
+    </div>
+  </div>
   <div class='four spacing'></div>
 </div>
-<div class='full parallax' style='background-image: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ), url(https://images.unsplash.com/photo-1446846365537-255ea07833ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1385&q=80); color: #fff;'>
+<!-- <div class='full parallax' style='background-image: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ), url(https://images.unsplash.com/photo-1446846365537-255ea07833ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1385&q=80); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
       {% include section-header.html class="alt" title_style="color: #fff;" title="What we are good at" %}
@@ -169,7 +203,7 @@ layout: default
     </div>
   </div>
   <div class='four spacing'></div>
-</div>
+</div> -->
 <a id='work'></a>
 <div class='full'>
   <div class='row'>

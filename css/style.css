@@ -3419,3 +3419,31 @@ body {
     display: none;
   }
 }
+
+/* Custom Styles*/
+
+.modBoxedTextSlider .boxes {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+
+
+.modBoxedTextSlider .box {
+    padding: 1.5rem;
+    margin-bottom: 1.75rem;
+    width: 29%;
+}
+
+@media only screen and (max-width: 960px) {
+    .modBoxedTextSlider .box {
+        width: 45%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .modBoxedTextSlider .box {
+        width: 75%;
+    }
+}
