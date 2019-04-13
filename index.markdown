@@ -64,27 +64,27 @@ students:
 - icon: phone
   title: SIM Card
   description: Stay connected to your loved ones
-- icon:
+- icon: 
   title: Find a Job
-  description:
-- icon:
+  description: 
+- icon: 
   title: Driver's License
-  description:
-- icon:
+  description: 
+- icon: 
   title: Travel and Health Insurance
-  description:
-- icon:
+  description: 
+- icon: 
   title: Daily Tiffin Service
-  description:
-- icon:
+  description: 
+- icon: 
   title: Opening a Bank Account
-  description:
-- icon:
+  description: 
+- icon: 
   title: Cellular Plans
-  description:
-- icon:
+  description: 
+- icon: 
   title: Travel Pass
-  description:
+  description: 
 immigrants:
 - icon: car
   title: Vehicle Purchase
@@ -104,7 +104,6 @@ immigrants:
 - icon: phone
   title: Getting a SIN Card!
   description: Stay connected to your loved ones
-
 works:
 - image: "../images/@stock/one-page-work-1.jpg"
   title: Beautiful Girl
@@ -194,28 +193,28 @@ testimonials:
     a new country. I am more than happy to have this family in Canada. They are my
     Home Away from Home!
   author: "- Vishal Malhotra, Hospitality Management, Humber College 2016"
-- quote:
+- quote: 
   author: "- Mandeep Singh, Web Design, CDI College 2017"
-- quote:
+- quote: 
   author: "- Gurinder Singh, Web Design , CDI College 2018"
-- quote:
+- quote: 
   author: "- Manvi Aghi, UX Design, Humber College 2018"
-- quote:
+- quote: 
   author: "-Manpreet Singh, Business Accounting, Humber College 2015"
-- quote:
+- quote: 
   author: "-Heena Dhingra, Business Management, Humber College 2015"
-- quote:
+- quote: 
   author: "- Sahil Kundal, Project Management, Lambton College 2016"
-- quote:
+- quote: 
   author: "-Rajvir Singh, Supply Chain Management, Lambton College 2017"
-- quote:
-  author:
+- quote: 
+  author: 
 members:
 - avatar: images/@stock/member-1.jpg
   name: Shradha Chopra
   position: Co-founder
   socials:
-  - link:
+  - link: 
     icon: twitter
   - link: http://facebook.com
     icon: facebook
@@ -277,3 +276,4 @@ socials:
   link_to: http://facebook.com
 layout: layout--homepage
 ---
+
