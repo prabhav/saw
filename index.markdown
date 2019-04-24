@@ -223,9 +223,9 @@ members:
   name: Shradha Chopra
   position: Co-founder
   socials:
-  - link: 
+  - link: https://twitter.com/StudentAcclima1?lang=en
     icon: twitter
-  - link: http://facebook.com
+  - link: https://www.facebook.com/shradha.chopra.1
     icon: facebook
   desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
     nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
@@ -233,7 +233,7 @@ members:
   name: Manish Chopra
   position: Co-founder/Manager
   socials:
-  - link: http://twitter.com
+  - link: https://twitter.com/StudentAcclima1?lang=en
     icon: twitter
   - link: http://facebook.com
     icon: facebook
@@ -245,22 +245,12 @@ members:
   name: Geetanjali Chopra
   position: Manager
   socials:
-  - link: http://twitter.com
+  - link: https://twitter.com/StudentAcclima1?lang=en
     icon: twitter
   - link: http://facebook.com
     icon: facebook
   - link: http://tumblr.com
     icon: tumblr
-  desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
-- avatar: images/@stock/member-4.jpg
-  name: Lily Whrem
-  position: Developer
-  socials:
-  - link: http://twitter.com
-    icon: twitter
-  - link: http://facebook.com
-    icon: facebook
   desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
     nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
 clients:
@@ -283,6 +273,8 @@ socials:
   text: Connect us with via mail
   icon_class: fa fa-facebook
   link_to: http://facebook.com
+  Key: 
+Field name: 
 layout: layout--homepage
 ---
 
