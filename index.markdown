@@ -88,11 +88,12 @@ students:
   description: Our agents can help you open a bank account and get things jump started
     for you.
 - icon: phone
-  title: Cellular Plans
-  description: 
+  title: Seminars and Events
+  description: We organize event and seminars to support our students in Canada.
 - icon: cab
-  title: Travel Pass
-  description: 
+  title: Immigration Consultancy
+  description: We provide personalized consultancy services with our experienced and
+    licensed immigration consultants.
 immigrants:
 - icon: car
   title: Vehicle Purchase
