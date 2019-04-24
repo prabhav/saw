@@ -59,9 +59,6 @@ students:
   title: Temporary Accommodation
   description: We provide approx. two weeks of temporary accommodation,this gives
     you time to find a permanent place to live of your choice.
-- icon: home
-  title: Temporary Accommodation
-  description: Place to stay while you find your own
 - icon: bicycle
   title: VIP Metro Pass
   description: We provide TTC (Toronto Transit Commission) monthly passes with discount.One
