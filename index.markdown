@@ -62,7 +62,8 @@ students:
 - icon: bicycle
   title: VIP Metro Pass
   description: We provide TTC (Toronto Transit Commission) monthly passes with discount.One
-    of our agents would take you around and explain you how the public transport work.
+    of our agents would also take you around the city and explain you how the public
+    transport work.
 - icon: phone
   title: Cellular Plans
   description: Working on a budget? Don't worry we can get a customize student cellular
