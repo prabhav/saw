@@ -37,48 +37,58 @@ slides:
   - text: NEW IMMIGRANTS
     class: boxed small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-intro: "We are a team helping students settle in and help with the post landing needs.
-  It can be stressful to start a new journey in\na new country but worry not we are
-  your very own family in CANADA.\n\nWe are here to answer any question you might
-  have regarding WHERE, HOW and WHEN to get things done.\n\nWe want students to SMOOTHLY
-  transition into their new life. The aim is to provide a step by step plan for every
-  student in order for them to thrive independently without risking their educational
-  time. \nAll you need is to pack up your bags, arrive safely and the rest would be
-  taken care of by us.\n\n"
+intro: "We are a start-up that provides Post-Landing Services to students. We are
+  a team helping students settle in and help with the post landing needs. It can be
+  stressful to start a new journey in\na new country but worry not we are your very
+  own family in CANADA.\n\nWe are here to answer any question you might have regarding
+  WHERE, HOW and WHEN to get things done.\n\nWe want students to SMOOTHLY transition
+  into their new life. The aim is to provide a step by step plan for every student
+  in order for them to thrive independently without risking their educational time.
+  \nAll you need is to pack up your bags, arrive safely and the rest would be taken
+  care of by us.\n\n"
 students:
 - icon: bus
-  title: Admissions
-  description: We'll get you in
+  title: 'Admissions '
+  description: 'We can help you with your admissions process at no additional cost. '
 - icon: bus
   title: Airport Pickup
-  description: utha hi lenge beta
+  description: |-
+    Don't have family in Canada? Don't worry #wegotyou
+    One of our agents would be there to pick you up and take you to your desired location.
 - icon: home
   title: Temporary Accommodation
-  description: Place to stay while you find your own
+  description: We provide approx. two weeks of temporary accommodation,this gives
+    you time to find a permanent place to live of your choice.
 - icon: home
   title: Temporary Accommodation
   description: Place to stay while you find your own
 - icon: bicycle
-  title: Transport Help
-  description: Getting around made easy
+  title: VIP Metro Pass
+  description: We provide TTC (Toronto Transit Commission) monthly passes with discount.One
+    of our agents would take you around and explain you how the public transport work.
 - icon: phone
-  title: SIM Card
-  description: Stay connected to your loved ones
+  title: Cellular Plans
+  description: Working on a budget? Don't worry we can get a customize student cellular
+    plan that would be useful and budget friendly.
 - icon: briefcase
   title: Find a Job
-  description: 
+  description: We help in finding you a job of your dream.
 - icon: car
   title: Driver's License
-  description: lorem ipsum
+  description: We provide course material and practical guidance needed to pass the
+    written and practical driving exam.
 - icon: money
   title: Travel and Health Insurance
-  description: 
+  description: We offer you special prices for travel and health insurance plans which
+    will assure medical care throughout Canada.
 - icon: spoon
   title: Daily Tiffin Service
-  description: 
+  description: "Missing home cooked food? \nWe provide daily tiffin service at a very
+    reasonable cost that would cost you even cheaper than your monthly grocery."
 - icon: money
   title: Opening a Bank Account
-  description: 
+  description: Our agents can help you open a bank account and get things jump started
+    for you.
 - icon: phone
   title: Cellular Plans
   description: 
@@ -102,8 +112,8 @@ immigrants:
   title: Public Transport Guide
   description: Getting around made easy
 - icon: phone
-  title: Getting a SIN Card!
-  description: Stay connected to your loved ones
+  title: Getting a SIN Card.
+  description: 'You need a valid SIN Card in order to be eligible to work in Canada. '
 works:
 - image: "../images/@stock/one-page-work-1.jpg"
   title: Beautiful Girl
