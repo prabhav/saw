@@ -70,7 +70,7 @@ students:
     plan that would be useful and budget friendly.
 - icon: briefcase
   title: Find a Job
-  description: We help in finding you a job of your dream.
+  description: We help our students land that first job.
 - icon: car
   title: Driver's License
   description: We provide course material and practical guidance needed to pass the
