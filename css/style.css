@@ -3422,6 +3422,10 @@ body {
 
 /* Custom Styles*/
 
+* {
+    transition: 0.25s;
+}
+
 .modBoxedTextSlider .boxes {
     display: flex;
     flex-flow: row wrap;
@@ -3434,6 +3438,16 @@ body {
     padding: 1.5rem;
     margin-bottom: 1.75rem;
     width: 29%;
+}
+
+.modBoxedTextSlider .box:hover, .modBoxedTextSlider .box:focus {
+    /* background: rgba(255,255,255,0.3); */
+    background: rgba(196,0,0,0.05);
+    /* box-shadow: 0 0 25px rgba(196,0,0,0.1); */
+}
+
+.modBoxedTextSlider .box:hover p, .modBoxedTextSlider .box:focus p {
+    color: #222;
 }
 
 @media only screen and (max-width: 960px) {
