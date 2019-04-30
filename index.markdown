@@ -6,10 +6,10 @@ slides:
   title: Post-Landing Services!
   tagline: Your Family in Canada!
   buttons:
-  - text: STUDENTS
+  - text: I WANT TO STUDY
     class: small
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
-  - text: NEW IMMIGRANTS
+  - text: I WANT TO IMMIGRATE
     class: small boxed
     url: http://themeforest.net/user/honryou/portfolio?ref=honryou
 - bg: http://themes.blahlab.com/squarebox/wp-content/uploads/2014/12/out-short.jpg
