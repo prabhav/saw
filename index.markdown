@@ -3,7 +3,7 @@ title: Home
 date: 2019-03-22 21:31:00 Z
 slides:
 - bg: https://images.unsplash.com/photo-1523662070078-0310b6680524?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
-  title: Post-Landing Services!
+  title: Student Acclimation Worldwide
   tagline: Your Family in Canada!
   buttons:
   - text: I WANT TO STUDY
