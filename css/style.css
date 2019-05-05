@@ -2567,7 +2567,7 @@ body {
 }
 .modMilestone i {
   font-size: 36px;
-  color: #333;
+  color: #fff; /* Changed icon color to white in achievements */ 
   background: #C40200;
   width: 90px;
   height: 90px;
@@ -3235,7 +3235,8 @@ body {
   }
 
   .contain-to-grid.alt .top-bar-section ul li > a {
-    color: #999;
+    /* color: #999; */
+    color: #C40200;
   }
   .contain-to-grid.alt .top-bar-section .has-dropdown > a:after {
     border-top-color: transparent;
@@ -3432,8 +3433,6 @@ body {
     justify-content: space-around;
 }
 
-
-
 .modBoxedTextSlider .box {
     padding: 1.5rem;
     margin-bottom: 1.75rem;
@@ -3460,4 +3459,10 @@ body {
     .modBoxedTextSlider .box {
         width: 75%;
     }
+}
+
+/* Making nav links red and bold */
+.top-bar-section ul li > a {
+    color: #C40200;
+    font-weight: bold;
 }
