@@ -202,22 +202,22 @@ testimonials:
     a new country. I am more than happy to have this family in Canada. They are my
     Home Away from Home!
   author: "- Vishal Malhotra, Hospitality Management, Humber College 2016"
-- quote:
+- quote: 
   author: "- Mandeep Singh, Web Design, CDI College 2017"
-- quote:
+- quote: 
   author: "- Gurinder Singh, Web Design , CDI College 2018"
-- quote:
+- quote: 
   author: "- Manvi Aghi, UX Design, Humber College 2018"
-- quote:
+- quote: 
   author: "-Manpreet Singh, Business Accounting, Humber College 2015"
-- quote:
+- quote: 
   author: "-Heena Dhingra, Business Management, Humber College 2015"
-- quote:
+- quote: 
   author: "- Sahil Kundal, Project Management, Lambton College 2016"
-- quote:
+- quote: 
   author: "-Rajvir Singh, Supply Chain Management, Lambton College 2017"
-- quote:
-  author:
+- quote: 
+  author: 
 members:
 - avatar: images/@stock/member-1.jpg
   name: Shradha Chopra
@@ -254,47 +254,47 @@ members:
   desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
     nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
 price_boxes:
-    - type: New Student
-      desc: Education in Canada?
-      cost: 0
-      lines:
-      - Consultation in your home country
-      - Help with finding residence
-      - Acclimation with your University
-      - Familiarizing with your peer group
-      - Providing SIM Card
-      - Establishing a support system
-    - type: basic
-      desc: Perfect for small teams
-      cost: 20
-      lines:
-      - 15 Users
-      - 10 Projects
-      - 30GB of Storage
-      - 5 Workspaces
-      - Private Forums
-      - Enhanced Security
-    - type: plus
-      desc: Popular and hot selling
-      cost: 45
-      lines:
-      - 15 Users
-      - 10 Projects
-      - 30GB of Storage
-      - 5 Workspaces
-      - Private Forums
-      - Enhanced Security
-      class: #featured
-    - type: Premium
-      desc: Perfect for big companies
-      cost: 99
-      lines:
-      - 15 Users
-      - 10 Projects
-      - 30GB of Storage
-      - 5 Workspaces
-      - Private Forums
-      - Enhanced Security
+- type: New Student
+  desc: Education in Canada?
+  cost: 0
+  lines:
+  - Consultation in your home country
+  - Help with finding residence
+  - Acclimation with your University
+  - Familiarizing with your peer group
+  - Providing SIM Card
+  - Establishing a support system
+- type: basic
+  desc: Perfect for small teams
+  cost: 20
+  lines:
+  - 15 Users
+  - 10 Projects
+  - 30GB of Storage
+  - 5 Workspaces
+  - Private Forums
+  - Enhanced Security
+- type: plus
+  desc: Popular and hot selling
+  cost: 45
+  lines:
+  - 15 Users
+  - 10 Projects
+  - 30GB of Storage
+  - 5 Workspaces
+  - Private Forums
+  - Enhanced Security
+  class: 
+- type: Premium
+  desc: Perfect for big companies
+  cost: 99
+  lines:
+  - 15 Users
+  - 10 Projects
+  - 30GB of Storage
+  - 5 Workspaces
+  - Private Forums
+  - Enhanced Security
 clients:
 - "../images/@stock/client-1.png"
 - "../images/@stock/client-2.png"
@@ -319,7 +319,8 @@ socials:
   text: Connect us with via mail
   icon_class: fa fa-envelope
   link_to: mailto:studenthelpcanada@gmail.com
-  Key:
-Field name:
+  Key: 
+Field name: 
 layout: layout--homepage
 ---
+
