@@ -1,7 +1,8 @@
 ---
-title: Welcome to CANADA checklist!
+title: dum dum dummy
 date: 2019-05-08 18:46:00 Z
 layout: post
+published: false
 author: Shradha Chopra
 image: /uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg
 categories:
@@ -20,6 +21,7 @@ If you have chosen to move to Canada and are planning your arrival soon as a stu
 • Apply for a Social Insurance Number (SIN)
 • Find an Employment Resource Centre(ERC) close to your home
 • Apply for a Health Card (OHIP)
+
 • Find a public library close to your home
 • Apply for the Canada Child Tax Benefit (CCTB)
 • Learn about your rights as an employee
