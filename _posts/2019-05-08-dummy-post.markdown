@@ -1,10 +1,7 @@
 ---
 title: dum dum dummy
 date: 2019-05-08 18:46:00 Z
-layout: post
 published: false
-author: Shradha Chopra
-image: /uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg
 categories:
 - Moving to Canada!
 tags:
@@ -12,7 +9,10 @@ tags:
 - Immigration
 - Student
 - Post-landing Services
-Field name:
+layout: post
+author: Shradha Chopra
+image: "/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg"
+Field name: 
 ---
 
 If you have chosen to move to Canada and are planning your arrival soon as a student or new immigrant, this checklist might help you get through what and how you need to proceed once you are here.
