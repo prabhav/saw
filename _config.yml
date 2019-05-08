@@ -9,12 +9,16 @@ collections:
     title: Uploads
     output: true
 email: studenthelpcanada@gmail.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
-baseurl: 
+description: "We are a start-up that provides Post-Landing Services to students. We are
+  a team helping students settle in and help with the post landing needs. It can be
+  stressful to start a new journey in\na new country but worry not we are your very
+  own family in CANADA.\n\nWe are here to answer any question you might have regarding
+  WHERE, HOW and WHEN to get things done.\n\nWe want students to SMOOTHLY transition
+  into their new life. The aim is to provide a step by step plan for every student
+  in order for them to thrive independently without risking their educational time.
+  \nAll you need is to pack up your bags, arrive safely and the rest would be taken
+  care of by us.\n\n"
+baseurl:
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
