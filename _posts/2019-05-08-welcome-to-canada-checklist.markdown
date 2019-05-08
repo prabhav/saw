@@ -1,6 +1,13 @@
 ---
 title: Welcome to CANADA checklist!
 date: 2019-05-08 18:46:00 Z
+categories:
+- Moving to Canada!
+tags:
+- Welcome to Canada
+- Checklist
+- Immigration
+Field name: 
 ---
 
 If you have chosen to move to Canada and are planning your arrival soon as a student or new immigrant, this checklist might help you get through what and how you need to proceed once you are here.
