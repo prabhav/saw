@@ -4,9 +4,10 @@ date: 2019-05-08 18:46:00 Z
 categories:
 - Moving to Canada!
 tags:
-- Welcome to Canada
 - Checklist
 - Immigration
+- Student
+- Post-landing Services
 Field name: 
 ---
 
