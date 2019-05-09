@@ -36,4 +36,5 @@ In winter, it is cold and snows often. During the winter months (December, Janua
 
 While it may be expensive to buy winter clothes when you arrive, remember that you will use what you buy to stay warm year after year.
 You might also be able to buy gently used clothing at thrift stores for very reasonable prices. A thrift store is a store that has used goods that have been donated and is in good enough condition to be reused.
-![image.jpg](/uploads/image.jpg)![image.jpg](/uploads/image.jpg)
+
+![image.jpg](/uploads/image.jpg)
