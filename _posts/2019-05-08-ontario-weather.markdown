@@ -1,5 +1,5 @@
 ---
-title: Ontario Weather!
+title: It's not always Cold in Canada!
 date: 2019-05-08 19:03:00 Z
 categories:
 - Moving to Canada!
@@ -8,9 +8,9 @@ tags:
 - Immigration
 - Student
 - Post-landing Services
-layout: post
 author: Shradha Chopra
 image: "/uploads/image.jpg"
+layout: post
 ---
 
 Ontario is a large province. Temperatures vary from region to region. The temperature can be different within the same region. Usually, January is the coldest month of the year and July is the warmest. The northern part of the province has longer and colder winters than southern Ontario. Radio and TV news give temperatures in degrees Celsius (C). Sometimes they also give the temperature in degrees Fahrenheit (F).
