@@ -42,4 +42,4 @@ This will help you:
 * Learn what activities and services are available.
 * See local attractions and landmarks!
 
-[original_d83d80dd777eee46441458dff0f7adfe.jpg](/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg)
+ ![original_d83d80dd777eee46441458dff0f7adfe.jpg](/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg)
