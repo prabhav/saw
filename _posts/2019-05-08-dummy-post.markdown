@@ -9,10 +9,10 @@ tags:
 - Immigration
 - Student
 - Post-landing Services
-layout: post
 author: Shradha Chopra
 image: "/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg"
 Field name: 
+layout: post
 ---
 
 If you have chosen to move to Canada and are planning your arrival soon as a student or new immigrant, this checklist might help you get through what and how you need to proceed once you are here.
@@ -43,3 +43,9 @@ This will help you:
 • Find the best way to travel around the area.
 • Learn what activities and services are available.
 • See local attractions and landmarks.![original_d83d80dd777eee46441458dff0f7adfe.jpg](/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg)
+
+![original_d83d80dd777eee46441458dff0f7adfe.jpg](/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg)
+
+![unnamed.jpg](/uploads/unnamed.jpg)
+
+
