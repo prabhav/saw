@@ -9,7 +9,7 @@ tags:
 - Student
 - Post-landing Services
 author: Shradha Chopra
-image: "/uploads/9163-invest-in-toronto-995x330.png"
+image: "/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg"
 Field name: 
 layout: post
 ---
@@ -40,5 +40,6 @@ This will help you:
 * Find schools, hospitals, banks, stores, community centres and parks.
 * Find the best way to travel around the area.
 * Learn what activities and services are available.
-* See local attractions and landmarks.!
+* See local attractions and landmarks!
+
 [original_d83d80dd777eee46441458dff0f7adfe.jpg](/uploads/original_d83d80dd777eee46441458dff0f7adfe.jpg)
