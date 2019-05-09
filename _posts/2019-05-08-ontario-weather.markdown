@@ -27,12 +27,12 @@ Fall begins in September. The weather gets cool and the leaves on many trees cha
 
 **Winter: December 21 - March 19**
 In winter, it is cold and snows often. During the winter months (December, January and February), the temperature in most of the province is usually below 0°C, day and night.Temperatures in some parts of the province can drop below -30°C. In most of Ontario, snow can be on the ground from the middle of December until the middle of March. In the northern parts of Ontario, the winter is longer and colder than in Southern Ontario. Make sure to wear layers and stay warm. Winters in Ontario can be very cold and snowy. If you come from a warm country, you might be surprised by how cold it can get. Winter is a time for fun in the snow, but it is important to learn about the dangers of the cold and how to stay warm. Here are some of the winter clothes you may need:
-• Thick, windproof coat
-• Scarf – for around your neck or across your face
-• Gloves or mittens
-• Warm underwear
-• Winter hat that covers your ears
-• Warm boots that are lined and/or waterproof
+* Thick, windproof coat
+* Scarf – for around your neck or across your face
+* Gloves or mittens
+* Warm underwear
+* Winter hat that covers your ears
+* Warm boots that are lined and/or waterproof
 
 While it may be expensive to buy winter clothes when you arrive, remember that you will use what you buy to stay warm year after year.
 You might also be able to buy gently used clothing at thrift stores for very reasonable prices. A thrift store is a store that has used goods that have been donated and is in good ![image.jpg](/uploads/image.jpg)![image.jpg](/uploads/image.jpg)enough condition to be reused.
