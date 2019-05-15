@@ -254,9 +254,9 @@ members:
   desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
     nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
 price_boxes:
-- type: New Student
+- type: Fresh Student
   desc: Education in Canada?
-  cost: 0
+  cost: 2
   lines:
   - Consultation in your home country
   - Help with finding residence
@@ -264,6 +264,7 @@ price_boxes:
   - Familiarizing with your peer group
   - Providing SIM Card
   - Establishing a support system
+  - Finding a peer group
 - type: basic
   desc: Perfect for small teams
   cost: 20
